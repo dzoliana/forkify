@@ -3,7 +3,8 @@ import { async } from 'regenerator-runtime';
 import { API_URL, RES_PER_PAGE } from './config.js';
 //import { getJSON, sendJSON } from './helpers.js';
 import { AJAX } from './helpers.js';
-import { KEY } from '../keys.js';
+//import { KEY } from '../keys.js';
+import { KEY } from '.env';
 
 //--------------------------------------------------------------------------------
 
