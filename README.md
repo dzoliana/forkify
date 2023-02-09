@@ -2,7 +2,7 @@
 
 Recipe search application with custom recipe uploads. This project is a part of the Udemy course provided by Jonas Schmedtmann.
 
-/forkify.png
+![forkify](/forkify.png)
 
 ## Built with
 
