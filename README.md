@@ -24,4 +24,4 @@ Recipe search application with custom recipe uploads. This project is a part of 
 
 ## Project Link
 
-- [forkify-app](https://forkify-anadz.netlify.app/ 'forkify-app')
+- [forkify-app](https://forkify-adz.netlify.app/ 'forkify-app')
